@@ -55,9 +55,9 @@
 
 | 下载源 | 版本     | 文件名                                                                                                                 |
 |--------|--------|---------------------------------------------------------------------------------------------------------------------|
-| 🏠 GitHub Release | 1.12.4 | [SFA-1.12.4-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.12.4/SFA-1.12.4-universal.apk) |
-| 🚀 镜像加速1 | 1.12.4 | [加速下载](https://cdn.jsdmirror.com/gh/GuantaoDonty/hub@main/singbox-Android/SFA-1.12.4-arm64-v8a.apk)  |
-| 🚀 镜像加速2 | 1.12.4 | [备用链接](https://cdn.jsdmirror.cn/gh/GuantaoDonty/hub@main/singbox-Android/SFA-1.12.4-arm64-v8a.apk) |
+| 🏠 GitHub Release | 1.13.14 | [SFA-1.13.14-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.13.14/SFA-1.13.14-universal.apk) |
+| 🚀 镜像加速1 | 1.13.14 | [加速下载](https://cdn.jsdmirror.com/gh/GuantaoDonty/hub@main/singbox-Android/SFA-1.13.14-arm64-v8a.apk)  |
+| 🚀 镜像加速2 | 1.13.14 | [备用链接](https://cdn.jsdmirror.cn/gh/GuantaoDonty/hub@main/singbox-Android/SFA-1.13.14-arm64-v8a.apk) |
 
 ### 🛠️ 安装指南
 
@@ -280,4 +280,4 @@ A: 排查步骤：
 
 ---
 
-> 📅 最后更新：2025年8月31日 | 📦 适用版本：sing-box 1.12.4 (SFA)
+> 📅 最后更新：2025年8月31日 | 📦 适用版本：sing-box 1.13.14 (SFA)

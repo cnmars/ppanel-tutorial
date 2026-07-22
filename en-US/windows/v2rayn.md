@@ -37,13 +37,13 @@
 
 | Download Source | Type | Speed | Stability | Rating |
 |----------------|------|-------|-----------|---------|
-| [🚀 Mirror Acceleration 1](https://git.886.be/https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip) | Mirror Source | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| [⚡ Mirror Acceleration 2](https://gh.xxooo.cf/https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip) | Mirror Source | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| [📦 Official GitHub](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip) | Official Source | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| [🚀 Mirror Acceleration 1](https://git.886.be/https://github.com/2dust/v2rayN/releases/download/7.23.4/v2rayN-windows-64-desktop.zip) | Mirror Source | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| [⚡ Mirror Acceleration 2](https://gh.xxooo.cf/https://github.com/2dust/v2rayN/releases/download/7.23.4/v2rayN-windows-64-desktop.zip) | Mirror Source | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| [📦 Official GitHub](https://github.com/2dust/v2rayN/releases/download/7.23.4/v2rayN-windows-64-desktop.zip) | Official Source | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
 ### 📋 Version Information
 
-- **Current Version**: v6.60
+- **Current Version**: v7.23.4
 - **Release Date**: November 2024
 - **File Size**: ~15MB
 - **File Format**: ZIP archive
@@ -186,7 +186,7 @@ A: Backup method:
 
 ## 🔄 Version History
 
-- **v6.60 (2024.11)**: Performance optimization, new protocol support
+- **v7.23.4 (2024.11)**: Performance optimization, new protocol support
 - **v6.50 (2024.09)**: Interface improvements, bug fixes
 - **v6.40 (2024.07)**: Enhanced stability, new features added
 

@@ -41,9 +41,9 @@
 
 | 下载源 | 版本 | 说明 |
 |--------|------|------|
-| 🏠 GitHub Release | 2.24.5 | [官方发布版](https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk) |
-| 🚀 镜像加速1 | 2.24.5 | [加速下载](https://git.886.be/https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk) |
-| 🚀 镜像加速2 | 2.24.5 | [备用链接](https://gh.xxooo.cf/https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk) |
+| 🏠 GitHub Release | 2.33.0 | [官方发布版](https://github.com/getsurfboard/surfboard/releases/download/mobile-2.33.0/mobile-universal-release.apk) |
+| 🚀 镜像加速1 | 2.33.0 | [加速下载](https://git.886.be/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.33.0/mobile-universal-release.apk) |
+| 🚀 镜像加速2 | 2.33.0 | [备用链接](https://gh.xxooo.cf/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.33.0/mobile-universal-release.apk) |
 
 ### 📱 应用商店
 
@@ -177,4 +177,4 @@ A: 通过以下渠道：
 
 ---
 
-> 📅 最后更新：2025年7月10日 | 🏄 适用版本：Surfboard 2.24.5
+> 📅 最后更新：2025年7月10日 | 🏄 适用版本：Surfboard 2.33.0

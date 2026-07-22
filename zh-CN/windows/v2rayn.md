@@ -37,12 +37,12 @@
 
 | 下载源 | 类型 | 速度 | 稳定性 | 推荐度 |
 |-------|------|------|--------|--------|
-| [🚀 镜像加速 1](https://git.886.be/https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip) | 镜像源 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| [⚡ 镜像加速 2](https://gh.xxooo.cf/https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip) | 镜像源 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| [📦 官方 GitHub](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip) | 官方源 | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| [🚀 镜像加速 1](https://git.886.be/https://github.com/2dust/v2rayN/releases/download/7.23.4/v2rayN-windows-64-desktop.zip) | 镜像源 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| [⚡ 镜像加速 2](https://gh.xxooo.cf/https://github.com/2dust/v2rayN/releases/download/7.23.4/v2rayN-windows-64-desktop.zip) | 镜像源 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| [📦 官方 GitHub](https://github.com/2dust/v2rayN/releases/download/7.23.4/v2rayN-windows-64-desktop.zip) | 官方源 | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
 ### 📋 版本信息
-- **当前版本**：v6.60
+- **当前版本**：v7.23.4
 - **发布日期**：2024年11月
 - **文件大小**：约 15MB
 - **文件格式**：ZIP 压缩包
@@ -201,7 +201,7 @@ A: 优化建议：
 ## 🔄 更新维护
 
 ### 📅 版本历史
-- **v6.60 (2024.11)**：优化性能，新增协议支持
+- **v7.23.4 (2024.11)**：优化性能，新增协议支持
 - **v6.50 (2024.09)**：界面改进，修复已知问题
 - **v6.40 (2024.07)**：增强稳定性，添加新功能
 - **定期更新**：开发团队保持活跃维护

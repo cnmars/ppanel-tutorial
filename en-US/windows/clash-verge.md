@@ -32,13 +32,13 @@
 
 | Download Source | Type | Speed | Recommendation |
 |----------------|------|-------|----------------|
-| [📦 Official GitHub](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | Official | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| [🚀 Mirror Accelerated](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | Mirror | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| [🔗 Backup Link](https://git.886.be/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | Mirror | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+| [📦 Official GitHub](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64-setup.exe) | Official | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| [🚀 Mirror Accelerated](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64-setup.exe) | Mirror | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| [🔗 Backup Link](https://git.886.be/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64-setup.exe) | Mirror | ⭐⭐⭐⭐ | ⭐⭐⭐ |
 
 ### 📋 Version Information
 
-- **Current Version**: v1.7.7
+- **Current Version**: v2.5.2
 - **File Size**: ~80MB
 - **File Type**: Windows Installer (.exe)
 - **Digital Signature**: ✅ Signed
@@ -159,7 +159,7 @@ A: Try these solutions:
 
 ## 🔄 Update Log
 
-### v1.7.7 (2024.11.16)
+### v2.5.2 (2024.11.16)
 
 - ✨ Added: Support for more proxy protocols
 - 🐛 Fixed: Configuration update exception issues
@@ -185,4 +185,4 @@ A: Try these solutions:
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | ⚡ Compatible Version: Clash Verge v1.7.7+
+> 📅 Last Updated: July 10, 2025 | ⚡ Compatible Version: Clash Verge v2.5.2+

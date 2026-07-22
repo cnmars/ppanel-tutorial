@@ -41,9 +41,9 @@
 
 | Download Source | Version | Description |
 |----------------|---------|-------------|
-| 🏠 GitHub Release | 2.24.5 | [Official Release](https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk) |
-| 🚀 Mirror Accelerator 1 | 2.24.5 | [Accelerated Download](https://git.886.be/https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk) |
-| 🚀 Mirror Accelerator 2 | 2.24.5 | [Backup Link](https://gh.xxooo.cf/https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk) |
+| 🏠 GitHub Release | 2.33.0 | [Official Release](https://github.com/getsurfboard/surfboard/releases/download/mobile-2.33.0/mobile-universal-release.apk) |
+| 🚀 Mirror Accelerator 1 | 2.33.0 | [Accelerated Download](https://git.886.be/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.33.0/mobile-universal-release.apk) |
+| 🚀 Mirror Accelerator 2 | 2.33.0 | [Backup Link](https://gh.xxooo.cf/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.33.0/mobile-universal-release.apk) |
 
 ### 📱 App Stores
 
@@ -377,4 +377,4 @@ tcp-connection = true
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | 🏄 Compatible Version: Surfboard 2.24.5
+> 📅 Last Updated: July 10, 2025 | 🏄 Compatible Version: Surfboard 2.33.0

@@ -35,14 +35,14 @@
 
 | Download Source | Type | Speed | Reliability | Recommendation |
 |----------------|------|-------|-------------|----------------|
-| [🚀 Mirror 1](https://git.886.be/https://github.com/2dust/v2rayNG/releases/download/1.9.33/v2rayNG_1.9.33_universal.apk) | Accelerated | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| [⚡ Mirror 2](https://gh.xxooo.cf/https://github.com/2dust/v2rayNG/releases/download/1.9.33/v2rayNG_1.9.33_universal.apk) | Accelerated | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| [📦 Official GitHub](https://github.com/2dust/v2rayNG/releases/download/1.9.33/v2rayNG_1.9.33_universal.apk) | Official | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| [🚀 Mirror 1](https://git.886.be/https://github.com/2dust/v2rayNG/releases/download/2.2.6/v2rayNG_2.2.6_arm64-v8a.apk) | Accelerated | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| [⚡ Mirror 2](https://gh.xxooo.cf/https://github.com/2dust/v2rayNG/releases/download/2.2.6/v2rayNG_2.2.6_arm64-v8a.apk) | Accelerated | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| [📦 Official GitHub](https://github.com/2dust/v2rayNG/releases/download/2.2.6/v2rayNG_2.2.6_arm64-v8a.apk) | Official | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 | [🔗 Official Site](https://dl.v2rayng.org/releases/latest/v2rayNG_1.8.12.apk) | Official | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 
 ### 📋 Version Information
 
-- **Latest Version**: v1.9.33
+- **Latest Version**: v2.2.6
 - **File Size**: ~35MB
 - **Architecture**: Universal (ARM + ARM64 + x86)
 - **Minimum Android**: 5.0 (API 21)

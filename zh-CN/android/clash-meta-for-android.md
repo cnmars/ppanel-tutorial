@@ -43,16 +43,16 @@
 
 | 下载源 | 版本 | 说明 |
 |--------|------|------|
-| 🏠 GitHub Release | 2.11.6-alpha | [官方发布](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.6-alpha-universal-release.apk) |
-| 🚀 镜像加速1 | 2.11.6-alpha | [加速下载](https://git.886.be/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.6-alpha-universal-release.apk) |
-| 🚀 镜像加速2 | 2.11.6-alpha | [备用链接](https://gh.xxooo.cf/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.6-alpha-universal-release.apk) |
-| 📦 网盘下载 | 2.11.6-alpha | [蓝奏云](https://tagcloud.lanzouw.com/i02u02b85x8d) |
+| 🏠 GitHub Release | 2.11.32 | [官方发布](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.32/cmfa-2.11.32-meta-universal-release.apk) |
+| 🚀 镜像加速1 | 2.11.32 | [加速下载](https://git.886.be/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.32/cmfa-2.11.32-meta-universal-release.apk) |
+| 🚀 镜像加速2 | 2.11.32 | [备用链接](https://gh.xxooo.cf/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.32/cmfa-2.11.32-meta-universal-release.apk) |
+| 📦 网盘下载 | 2.11.32 | [蓝奏云](https://tagcloud.lanzouw.com/i02u02b85x8d) |
 
 ### 🛠️ 安装步骤
 
 1. **下载应用**
    - 选择上述任一下载链接
-   - 下载 `cmfa-2.11.6-alpha-universal-release.apk`
+   - 下载 `cmfa-2.11.32-meta-universal-release.apk`
 
 2. **允许安装**
    - 设置 → 安全 → 开启"未知来源"
@@ -219,4 +219,4 @@ A: 解决方案：
 
 ---
 
-> 📅 最后更新：2025年7月10日 | ⚔️ 适用版本：Clash Meta for Android 2.11.6-alpha
+> 📅 最后更新：2025年7月10日 | ⚔️ 适用版本：Clash Meta for Android 2.11.32

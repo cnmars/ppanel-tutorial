@@ -55,9 +55,9 @@
 
 | Download Source | Version | Filename                                                                                                            |
 |----------------|---------|---------------------------------------------------------------------------------------------------------------------|
-| 🏠 GitHub Release | 1.12.4  | [SFA-1.12.4-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.12.4/SFA-1.12.4-universal.apk) |
-| 🚀 Mirror Accelerator 1 | 1.12.4  | [Accelerated Download](https://cdn.jsdmirror.com/gh/GuantaoDonty/hub@main/singbox-Android/SFA-1.12.4-arm64-v8a.apk) |
-| 🚀 Mirror Accelerator 2 | 1.12.4  | [Backup Link](https://cdn.jsdmirror.cn/gh/GuantaoDonty/hub@main/singbox-Android/SFA-1.12.4-arm64-v8a.apk)           |
+| 🏠 GitHub Release | 1.13.14  | [SFA-1.13.14-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.13.14/SFA-1.13.14-universal.apk) |
+| 🚀 Mirror Accelerator 1 | 1.13.14  | [Accelerated Download](https://cdn.jsdmirror.com/gh/GuantaoDonty/hub@main/singbox-Android/SFA-1.13.14-arm64-v8a.apk) |
+| 🚀 Mirror Accelerator 2 | 1.13.14  | [Backup Link](https://cdn.jsdmirror.cn/gh/GuantaoDonty/hub@main/singbox-Android/SFA-1.13.14-arm64-v8a.apk)           |
 
 ### 🛠️ Installation Guide
 
@@ -503,4 +503,4 @@ A: Check points:
 
 ---
 
-> 📅 Last Updated: August 31, 2025 | 📦 Compatible Version: sing-box 1.12.4 (SFA)
+> 📅 Last Updated: August 31, 2025 | 📦 Compatible Version: sing-box 1.13.14 (SFA)

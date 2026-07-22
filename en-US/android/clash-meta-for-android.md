@@ -43,16 +43,16 @@
 
 | Download Source | Version | Description |
 |----------------|---------|-------------|
-| 🏠 GitHub Release | 2.11.6-alpha | [Official Release](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.6-alpha-universal-release.apk) |
-| 🚀 Mirror Accelerator 1 | 2.11.6-alpha | [Accelerated Download](https://git.886.be/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.6-alpha-universal-release.apk) |
-| 🚀 Mirror Accelerator 2 | 2.11.6-alpha | [Backup Link](https://gh.xxooo.cf/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.6-alpha-universal-release.apk) |
-| 📦 Cloud Storage | 2.11.6-alpha | [LanzouCloud](https://tagcloud.lanzouw.com/i02u02b85x8d) |
+| 🏠 GitHub Release | 2.11.32 | [Official Release](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.32/cmfa-2.11.32-meta-universal-release.apk) |
+| 🚀 Mirror Accelerator 1 | 2.11.32 | [Accelerated Download](https://git.886.be/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.32/cmfa-2.11.32-meta-universal-release.apk) |
+| 🚀 Mirror Accelerator 2 | 2.11.32 | [Backup Link](https://gh.xxooo.cf/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.32/cmfa-2.11.32-meta-universal-release.apk) |
+| 📦 Cloud Storage | 2.11.32 | [LanzouCloud](https://tagcloud.lanzouw.com/i02u02b85x8d) |
 
 ### 🛠️ Installation Steps
 
 1. **Download Application**
    - Choose any download link above
-   - Download `cmfa-2.11.6-alpha-universal-release.apk`
+   - Download `cmfa-2.11.32-meta-universal-release.apk`
 
 2. **Allow Installation**
    - Settings → Security → Enable "Unknown Sources"
@@ -438,4 +438,4 @@ external-controller: 127.0.0.1:9090
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | ⚔️ Compatible Version: Clash Meta for Android 2.11.6-alpha
+> 📅 Last Updated: July 10, 2025 | ⚔️ Compatible Version: Clash Meta for Android 2.11.32
