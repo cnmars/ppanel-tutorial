@@ -9,13 +9,11 @@
 | Client | Type | Key Features | Rating | Tutorial |
 |--------|------|--------------|--------|----------|
 | [⚔️ Clash Verge](clash-verge.md) | Open Source | Modern interface, rich features | ⭐⭐⭐⭐⭐ | [Setup Guide](clash-verge.md) |
-| [👑 ClashX Pro](clashx-pro.md) | Enhanced | Professional version based on ClashX | ⭐⭐⭐⭐ | [Setup Guide](clashx-pro.md) |
 
 ### 💰 Commercial Paid Applications
 
 | Client | Price | Key Features | Rating | Tutorial |
 |--------|-------|--------------|--------|----------|
-| [🌊 Surge Pro](surge-pro.md) | $99.99 | Enterprise-grade features, professional tools | ⭐⭐⭐⭐⭐ | [Setup Guide](surge-pro.md) |
 
 ---
 
@@ -34,7 +32,6 @@
 
 ### 🔧 Advanced Users
 
-#### Recommended: ClashX Pro
 
 - ✅ Based on mature ClashX foundation
 - ✅ More powerful feature set
@@ -45,7 +42,6 @@
 
 ### 💼 Professional Users
 
-#### Recommended: Surge Pro
 
 - ✅ Industry benchmark product
 - ✅ Most comprehensive feature set
@@ -58,7 +54,6 @@
 
 ## 📊 Feature Comparison
 
-| Feature | Clash Verge | ClashX Pro | Surge Pro |
 |---------|-------------|------------|-----------|
 | 🏷️ **Price** | Free | Free | $99.99 |
 | 🎨 **Interface Design** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
@@ -70,7 +65,6 @@
 
 ## 🛠️ Protocol Support Matrix
 
-| Protocol | Clash Verge | ClashX Pro | Surge Pro |
 |----------|-------------|------------|-----------|
 | 🔒 **Shadowsocks** | ✅ | ✅ | ✅ |
 | 🌟 **VMess** | ✅ | ✅ | ✅ |
@@ -113,8 +107,6 @@
 | Client | Intel (x86_64) | Apple Silicon (ARM64) | Rosetta 2 |
 |--------|----------------|----------------------|-----------|
 | **Clash Verge** | ✅ Native | ✅ Native | ✅ |
-| **ClashX Pro** | ✅ Native | ✅ Native | ✅ |
-| **Surge Pro** | ✅ Native | ✅ Native | ✅ |
 
 ### ⚡ Performance Considerations
 
@@ -147,7 +139,6 @@
 
 ### 🎮 Gaming & Streaming
 
-**Best Choice**: ClashX Pro
 
 - Game-optimized routing rules
 - Low-latency connection modes
@@ -156,7 +147,6 @@
 
 ### 💼 Professional Development
 
-**Best Choice**: Surge Pro
 
 - Advanced debugging capabilities
 - Comprehensive network analysis
@@ -165,7 +155,6 @@
 
 ### 🏢 Enterprise Deployment
 
-**Best Choice**: Surge Pro
 
 - Enterprise-grade stability
 - Centralized management capabilities
@@ -179,8 +168,6 @@
 ### 📖 Configuration Tutorials
 
 - [⚔️ Clash Verge Modern Client](clash-verge.md)
-- [👑 ClashX Pro Enhanced Version](clashx-pro.md)
-- [🌊 Surge Pro Enterprise Solution](surge-pro.md)
 
 ### 🆘 Support Resources
 
@@ -195,7 +182,6 @@
 
 ### 📥 Installation Methods
 
-#### App Store Installation (Surge Pro)
 
 1. **Purchase & Download**
    - Visit Mac App Store

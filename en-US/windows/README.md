@@ -10,13 +10,11 @@
 |--------|--------------|-------------------|--------|----------|
 | [⚔️ Clash Verge](clash-verge.md) | Modern interface, comprehensive features | 🟢 Active | ⭐⭐⭐⭐⭐ | [Setup Guide](clash-verge.md) |
 | [⚡ v2rayN](v2rayn.md) | Lightweight, stable and reliable | 🟢 Active | ⭐⭐⭐⭐⭐ | [Setup Guide](v2rayn.md) |
-| [🎯 Netch](netch.md) | Gaming optimized, low latency | 🟡 Maintained | ⭐⭐⭐⭐ | [Setup Guide](netch.md) |
 
 ### 🏛️ Legacy Clients
 
 | Client | Status | Description | Rating | Tutorial |
 |--------|--------|-------------|--------|----------|
-| [🛡️ Clash for Windows](clash-for-windows.md) | 🔴 Discontinued | Classic tool, reference only | ⭐⭐⭐ | [Historical Guide](clash-for-windows.md) |
 
 ---
 
@@ -46,7 +44,6 @@
 
 ### 🎮 Gaming Users
 
-#### Recommended: Netch
 
 - ✅ Specifically optimized for gaming
 - ✅ Supports process-level proxying
@@ -69,7 +66,6 @@
 
 ## 📊 Detailed Comparison
 
-| Feature | Clash Verge | v2rayN | Netch | Clash for Windows |
 |---------|-------------|--------|-------|-------------------|
 | 🏷️ **Development Status** | 🟢 Active | 🟢 Active | 🟡 Maintained | 🔴 Discontinued |
 | 🎨 **Interface Design** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ |
@@ -82,7 +78,6 @@
 
 ## 🛠️ Protocol Support Matrix
 
-| Protocol | Clash Verge | v2rayN | Netch | Clash for Windows |
 |----------|-------------|--------|-------|-------------------|
 | 🔒 **Shadowsocks** | ✅ | ✅ | ✅ | ✅ |
 | 🌟 **VMess** | ✅ | ✅ | ✅ | ✅ |
@@ -164,7 +159,6 @@ Most clients require Visual C++ Runtime:
 
 ### 🎮 Gaming & Streaming
 
-**Best Choice**: Netch
 
 - Game-specific optimization profiles
 - Process-level proxy control
@@ -197,8 +191,6 @@ Most clients require Visual C++ Runtime:
 
 - [⚔️ Clash Verge Modern Client](clash-verge.md)
 - [⚡ v2rayN Lightweight Solution](v2rayn.md)
-- [🎯 Netch Gaming Optimizer](netch.md)
-- [🛡️ Clash for Windows (Legacy)](clash-for-windows.md)
 
 ### 🆘 Support Resources
 
@@ -314,7 +306,6 @@ A: Optimization:
 
 ### 🎮 Gaming-Specific Issues
 
-**Q: High latency in games with Netch?**
 
 A: Gaming optimization:
 
