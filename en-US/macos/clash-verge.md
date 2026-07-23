@@ -45,4 +45,4 @@ Starting from macOS 10.15, due to enhanced system security, you may receive "Dev
 ![图八](Clash-Verge-08.png)
 ---
 
-> 📅 Last Updated: July 10, 2025 | ⚔️ Applicable Version: Clash Verge 1.7.7
+> 📅 Last Updated: July 19, 2026 | ⚔️ Applicable Version: Clash Verge 2.5.2

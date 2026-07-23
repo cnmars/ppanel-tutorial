@@ -185,4 +185,4 @@ A: Try these solutions:
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | ⚡ Compatible Version: Clash Verge v2.5.2+
+> 📅 Last Updated: July 19, 2026 | ⚡ Compatible Version: Clash Verge v2.5.2+

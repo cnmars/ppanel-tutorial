@@ -326,4 +326,4 @@ A: Performance optimization:
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | ⚡ Applicable Version: Quantumult X 1.4.1
+> 📅 Last Updated: July 19, 2026 | ⚡ Applicable Version: Quantumult X 1.4.1

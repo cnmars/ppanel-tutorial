@@ -251,7 +251,7 @@ A: Backup method:
 
 ---
 
-> � Last Updated: July 10, 2025 | 🛡️ Applicable Version: ClashX Pro 1.118.0
+> � Last Updated: July 19, 2026 | 🛡️ Applicable Version: ClashX Pro 1.118.0
 
 ---
 

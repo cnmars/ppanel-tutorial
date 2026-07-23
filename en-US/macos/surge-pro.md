@@ -142,4 +142,4 @@ A: Click the "Update" button in the configuration management interface, or set a
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | 🌊 Applicable Version: Surge 5.9.0
+> 📅 Last Updated: July 19, 2026 | 🌊 Applicable Version: Surge 5.9.0

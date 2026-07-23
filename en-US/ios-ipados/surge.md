@@ -423,4 +423,4 @@ A: Trial description:
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | 🌊 Compatible Version: Surge 5.9.0
+> 📅 Last Updated: July 19, 2026 | 🌊 Compatible Version: Surge 5.9.0
